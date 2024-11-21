@@ -238,7 +238,6 @@ export const App = () => {
                       className={appSt.product}
                       style={{
                         ...(!setVisibility(type, product.type) && {
-                          border: "2px solid #F2F3F5",
                           opacity: "0.5",
                         }),
                       }}
