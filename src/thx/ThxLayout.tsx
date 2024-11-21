@@ -24,8 +24,7 @@ export const ThxLayout = () => {
           Только тссс
         </Typography.TitleResponsive>
         <Typography.Text tag="p" view="primary-medium" defaultMargins={false}>
-          Вы поучаствовали в очень важном исследовании, которое поможет создать
-          персональный тариф для молодежи. Вы – наш герой!
+          Вы поучаствовали в очень важном исследовании, которое поможет создать лучший тариф. Вы – наш герой!
         </Typography.Text>
       </div>
 
