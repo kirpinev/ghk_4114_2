@@ -170,8 +170,6 @@ export const App = () => {
           </Typography.TitleResponsive>
         </div>
 
-        <Gap size={2} />
-
         <Typography.Text
           view="primary-medium"
           color="primary"

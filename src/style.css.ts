@@ -94,6 +94,7 @@ const plans = style({
   boxSizing: "border-box",
   backgroundColor: "white",
   padding: "1rem 0",
+  marginTop: "-19px"
 });
 
 const productLockContainer = style({
