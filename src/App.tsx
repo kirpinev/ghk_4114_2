@@ -187,7 +187,7 @@ export const App = () => {
             size="xs"
             style={{ padding: "0.5rem" }}
           >
-            <span style={{ marginBottom: "1rem", display: "block" }}>Лайт</span>
+            <span style={{ marginBottom: "1rem", display: "block" }}>Старт</span>
             <b>199 ₽/мес.</b>
           </ButtonMobile>
           <ButtonMobile
