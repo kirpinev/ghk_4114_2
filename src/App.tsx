@@ -92,7 +92,7 @@ const categories: Array<Categories> = [
         text: "Какой-то текст",
       },
       {
-        title: "+1% годовых по накопительному счёту",
+        title: "+3% годовых по накопительному счёту",
         text: "Какой-то текст",
         image: percent,
         name: "percent",
