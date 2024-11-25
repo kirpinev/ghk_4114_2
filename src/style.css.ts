@@ -87,6 +87,7 @@ const statusBadge = style({
 
 const plans = style({
   display: "flex",
+  justifyContent: "center",
   gap: "0.5rem",
   position: "sticky",
   top: "0",

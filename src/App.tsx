@@ -188,7 +188,7 @@ export const App = () => {
               setPlanName("Старт 199 ₽/мес.");
             }}
             size="xs"
-            style={{ padding: "0.5rem" }}
+            style={{ padding: "0.5rem", width: "fit-content" }}
           >
             <span style={{ marginBottom: "1rem", display: "block" }}>
               Старт
@@ -206,6 +206,7 @@ export const App = () => {
             style={{
               padding: "0.5rem",
               opacity: "1",
+              width: "fit-content"
             }}
           >
             <span style={{ marginBottom: "1rem", display: "block" }}>
