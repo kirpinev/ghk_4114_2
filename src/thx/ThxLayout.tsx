@@ -26,15 +26,18 @@ export const ThxLayout = () => {
         <Typography.Text tag="p" view="primary-medium" defaultMargins={false}>
           Вы поучаствовали в очень важном исследовании, которое поможет создать лучший тариф. Вы – наш герой!
         </Typography.Text>
+          <Typography.Text tag="p" view="primary-medium" defaultMargins={false}>
+              Оформить существующую подписку Альфа-Смарт вы можете на следующем экране.
+          </Typography.Text>
       </div>
 
       <div className={appSt.bottomBtn}>
         <ButtonMobile
           block
           view="primary"
-          href="alfabank://multistep-route?fromModule=FORM&alias=alfa-subscription-alias&version=2"
+          href="https://alfa.me/lsp"
         >
-          Хорошо
+            Оформить подписку
         </ButtonMobile>
       </div>
     </>
