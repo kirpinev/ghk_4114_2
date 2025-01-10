@@ -20,7 +20,7 @@ export const sendDataToGA = async (payload: Payload) => {
       {
         redirect: "follow",
         method: "POST",
-        body: JSON.stringify({ date, ...payload, variant: "ghk_3887_2" }),
+        body: JSON.stringify({ date, ...payload, variant: "ghk_4114_2" }),
         headers: {
           "Content-Type": "text/plain;charset=utf-8",
         },

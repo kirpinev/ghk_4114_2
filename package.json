@@ -1,11 +1,11 @@
 {
-  "name": "ghk_3887_2",
+  "name": "ghk_4114_2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build --base=/ghk_3887_2/",
+    "build": "tsc && vite build --base=/ghk_4114_2/",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
